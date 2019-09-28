@@ -3,7 +3,6 @@ Market historical data set of real estate valuation are collected from Sindian D
 The real estate valuation is a regression problem.
 
 6 Statistic Features
-
 1. The Transaction date
 2. The house age
 3. The distance to the nearest MRT station
